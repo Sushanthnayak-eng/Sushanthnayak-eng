@@ -2,7 +2,7 @@
 
 <!--
 **Sushanthnayak-eng/Sushanthnayak-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![My Profile Picture](Photo.png)
+![My Profile Picture](photo.png)
 
 
 
